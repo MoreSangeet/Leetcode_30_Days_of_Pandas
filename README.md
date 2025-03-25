@@ -11,7 +11,6 @@ Welcome to the **LeetCode 30 Days of Pandas** repository! This repository contai
 - [How to Use This Repo](#how-to-use-this-repo)
 - [Resources](#resources)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -74,4 +73,36 @@ Below are the challenges included in this repo. Each day, you'll find a specific
    ```bash
    git clone https://github.com/MoreSangeet/Leetcode_30_Days_of_Pandas.git
    cd Leetcode_30_Days_of_Pandas
-```
+   ```
+
+2. **Open and run the notebooks:**
+Start Jupyter Notebook and open each day's notebook to work through the challenges.
+
+   ```bash
+   jupyter notebook
+   ```
+
+3. **Try solving the challenges yourself, and then check the solutions provided in the notebooks.**
+
+
+## 📚 **Resources**  
+
+   Pandas Documentation: https://pandas.pydata.org
+
+   LeetCode: https://leetcode.com
+
+   Python Documentation: https://docs.python.org/3/
+
+## 🤝 **Contributing**
+We welcome contributions to enhance this project! If you have suggestions for more challenges, improvements, or bug fixes, feel free to open a Pull Request.
+
+How to Contribute:
+1. Fork this repository
+
+2. Create a new branch (git checkout -b feature-name)
+
+3. Make your changes and commit them (git commit -m 'Add new challenge')
+
+4. Push to the branch (git push origin feature-name)
+
+5. Open a pull request with a detailed explanation of your changes
