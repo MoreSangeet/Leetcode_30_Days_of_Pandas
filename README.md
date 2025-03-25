@@ -106,3 +106,5 @@ How to Contribute:
 4. Push to the branch (git push origin feature-name)
 
 5. Open a pull request with a detailed explanation of your changes
+
+## **✨ Happy Coding! 🚀**
